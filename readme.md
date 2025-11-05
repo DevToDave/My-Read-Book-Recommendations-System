@@ -12,8 +12,6 @@ MyRead is a book recommendation system built using the Flask framework. It sugge
 
 ## Installation
 
-1. Clone the repository:
-git clone https://github.com/NirmalKAhirwar/my_read 
 
 2. `cd ../my_read`
 
